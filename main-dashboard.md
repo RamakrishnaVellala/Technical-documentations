@@ -26,7 +26,7 @@ Following technologies have used:
 
 ### Screenshot Updated
 
-![Main dashboard](images/main.png)
+![Main dashboard]([(https://github.com/RamakrishnaVellala/Technical-documentations/blob/main/main.png)])
 
 ## Functionalities Added
 
