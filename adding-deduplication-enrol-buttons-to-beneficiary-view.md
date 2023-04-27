@@ -1,4 +1,4 @@
-# Adding Enrol,Deduplicatin buttons to Beneficiary header
+# Adding Enrol,Deduplication buttons to Beneficiary header
 
 ## Introduction-
 
